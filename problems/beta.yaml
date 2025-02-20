@@ -15,3 +15,12 @@ problems:
       - T4
       - L4
     # Scoring rule/weights etc
+  - directory: pmpp/grayscale_py
+    name: grayscale
+    deadline: "2025-12-31"
+    gpus:
+      - H100
+      - A100
+      - T4
+      - L4
+    # Scoring rule/weights etc
